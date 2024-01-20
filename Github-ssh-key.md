@@ -15,3 +15,4 @@ ssh-keygen -f mykey
 
 
 - [ ]  Add the Public key to your Github repo
+- [ ]  settings->SSh GPG keys ->add public key generated ->save
