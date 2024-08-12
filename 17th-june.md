@@ -7,7 +7,7 @@
 
 ```dc
 Can be checked   from <jenkins-url:8090/env-vars.html/
-```
+```sdc
 - [ ] How to Access default variables
 
 ```
