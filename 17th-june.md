@@ -5,7 +5,7 @@
  - [ ] https://github.com/Ramkhushi/Jenkins-cicd/tree/3.1.1-maven-style
 - [ ] Jenkins Variables
 
-```
+```dc
 Can be checked   from <jenkins-url:8090/env-vars.html/
 ```
 - [ ] How to Access default variables
